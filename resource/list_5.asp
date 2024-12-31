@@ -1,0 +1,28 @@
+<%@LANGUAGE="VBSCRIPT" CODEPAGE="936"%>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>素材网站</title>
+</head>
+<link href="img/re.png" rel="icon" type="img/x-ico">
+<body>
+<h1 align="center"><a href="menu.html">返回主页</a></h1>
+<p>音效、图片、模板等素材第一页</p>
+<p>0, 究极免费可商用汇总(<a href="https://www.mfsc123.com">https://www.mfsc123.com</a> )<br>
+&#160; &#160; <a href="https://bangumi.online/"></a>一位义母分享(贡献: 阿轩), .进去就晓得含金量了</p>
+<p>1, 爱给网(<a href="https://www.aigei.com/">https://www.aigei.com/</a> )<br>
+&#160; &#160; <a href="https://bangumi.online/"></a>近乎万能的素材网站, 下载消耗铜币, 每天免费50个</p>
+<p>2, 大名鼎鼎的LookAe(<a href="https://www.lookae.com/">https://www.lookae.com/</a> )<br>
+  &#160; &#160; <a href="https://bangumi.online/"></a>极多免费插件, pr、ae、达芬奇都有, 宝藏, 速速收藏</p>
+<p>3, 书生CG资源站(<a href="https://c4dsky.com/">https://c4dsky.com/</a> )<br>
+  &#160; &#160; <a href="https://bangumi.online/"></a>ae、blender、c4d、FCPX、Houdini的插件以及各种模板, 绝大部分免费, 基本目前业余接触得到的都免费</p>
+<p>4, 游资网(<a href="https://youzi006.com/">https://youzi006.com/</a> )<br>
+  &#160; &#160; <a href="https://bangumi.online/"></a>游戏的素材为主, 包括aepr的游戏剪辑模板/调色预设, 游戏人物绿幕等<br>
+  &#160; &#160; <a href="https://bangumi.online/"></a>(贡献: 好兄弟二辈子(代剪)-1799525711)</p>
+<p>5, 求字体网(<a href="https://www.qiuziti.com/">https://www.qiuziti.com/</a> )<br>
+  &#160; &#160; <a href="https://bangumi.online/"></a>字体的识别与搜索, 但本该付费的字体依旧付费, 搜完就各显神通吧<br>
+  &#160; &#160; <a href="https://bangumi.online/"></a>！！！提醒, 不知道什么时候被墙了, 目前需要翻墙访问<br>
+</p>
+</body>
+</html>
