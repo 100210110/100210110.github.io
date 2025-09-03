@@ -7,3 +7,7 @@
 
 - 手搓的表格网址导航
 - 借鉴来的高级网址导航
+
+## 目前使用域名
+
+- [www.realcan.icu](https://www.realcan.icu)
